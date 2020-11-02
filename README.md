@@ -36,4 +36,4 @@ I'm ready to cooperate with any projects related to cybersecurity and digital fo
 ## 0x06 Stats
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=light-hat&show_icons=true&theme=tokyonight)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=light-hat&hide=html,css,javascript)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=light-hat&hide=html,css)](https://github.com/anuraghazra/github-readme-stats)
