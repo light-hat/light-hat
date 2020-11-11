@@ -18,22 +18,18 @@ My name is Alexey Pirogov, I'm 18 y.o. and I'm a second year student at Penza St
 
 ## 0x03 I’m currently learning:
 + Assembly
-+ F#
 + Python
 + Networks
 + AI
 + Digital forensics
 + Reverse engineering and malware analysis
 
-## 0x04 Cooperation
-I'm ready to cooperate with any projects related to cybersecurity and digital forensics
-
-## 0x05 You can find me:
+## 0x04 You can find me:
 + Email: l1ghth4t@gmail.com
 + Telegram: @l1ghth4t
 + VK: https://vk.com/l1ghth4t
 
-## 0x06 Stats
+## 0x05 Stats
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=light-hat&show_icons=true&theme=tokyonight)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=light-hat&hide=html,css)](https://github.com/anuraghazra/github-readme-stats)
