@@ -33,4 +33,4 @@ My name is Alexey Pirogov, I'm 18 y.o. and I'm a second year student at Penza St
 ## 0x05 Stats
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=light-hat&show_icons=true&theme=tokyonight)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=light-hat&hide=html,css)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=light-hat](https://github.com/anuraghazra/github-readme-stats)
