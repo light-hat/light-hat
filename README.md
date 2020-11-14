@@ -29,8 +29,3 @@ My name is Alexey Pirogov, I'm 18 y.o. and I'm a second year student at Penza St
 + Email: l1ghth4t@gmail.com
 + Telegram: @l1ghth4t
 + VK: https://vk.com/l1ghth4t
-
-## 0x05 Stats
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=light-hat&show_icons=true&theme=tokyonight)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=light-hat)](https://github.com/anuraghazra/github-readme-stats)
