@@ -7,7 +7,6 @@ My name is Alexey Pirogov, I'm 18 y.o. and I'm a second year student at Penza St
 + C++
 + C#
 + Python
-+ Go
 
 ## 0x02 I'm interested in:
 + Programming
