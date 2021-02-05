@@ -9,20 +9,13 @@ My name is Alexey Pirogov, I'm 18 y.o. and I'm a second year student at Penza St
 + Python
 
 ## 0x02 I'm interested in:
-+ Programming
-+ Artificial Intelligence
-+ Cryptography
-+ Steganography
-+ Digital forensics, in particular malware analysis
-+ Ethical hacking
++ Coding
++ Information security
 
 ## 0x03 I’m currently learning:
 + Assembly
 + Python
-+ Networks
-+ AI
-+ Digital forensics
-+ Reverse engineering and malware analysis
++ Javascript
 
 ## 0x04 You can find me:
 + Email: l1ghth4t@gmail.com
