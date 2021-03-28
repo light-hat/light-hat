@@ -1,7 +1,7 @@
 ### Hello everyone 👋
 
 ## 0x00 Who am I?
-My name is Alexey Pirogov, I'm 18 y.o. and I'm a second year student at Penza State University. My specialty is Information security of telecommunication systems.
+My name is Alexey Pirogov, I'm 19 y.o. and I'm a second year student at Penza State University. My specialty is Information security of telecommunication systems.
 
 ## 0x01 I can code on:
 + C++
