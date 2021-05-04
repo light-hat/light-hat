@@ -13,7 +13,7 @@ My name is Alexey Pirogov, I'm 19 y.o. and I'm a second year student at Penza St
 + Information security
 
 ## 0x03 I’m currently learning:
-+ Assembly
++ NASM
 + Python
 + Javascript
 
