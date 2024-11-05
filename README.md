@@ -35,7 +35,7 @@ I'm Alexey Pirogov, a final-year student at Penza State University, majoring in 
 ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white)
 ![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
 
-## My tech stack
+## Github stats
 
 ![Stats](https://github-readme-stats.vercel.app/api?username=light-hat&rank_icon=github)
 ![Languages](https://github-readme-stats.vercel.app/api/top-langs?username=light-hat&layout=compact&langs_count=8)
