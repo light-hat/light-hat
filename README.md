@@ -1,6 +1,7 @@
 # Hi there <img src="assets/hello.gif" width="5%">
 
-I'm Alexey Pirogov, a final-year student at Penza State University, majoring in Information Security of Systems and Technologies. As a Python Backend Developer and DevOps Engineer, I'm passionate about building secure and scalable backend systems while also exploring the fascinating world of cybersecurity. Here, I develop my pet projects and explore new technologies.
+I'm Alexey Pirogov, a final-year student at Penza State University, majoring in Information Security of Systems and Technologies. As a Python Backend Developer and DevOps Engineer, I'm passionate about building secure and scalable backend systems while also exploring the fascinating world of cybersecurity.
+DevSecOps occupies a special place in my area of ​​interest. Here, I develop my pet projects and explore new technologies.
 
 ## My tech stack
 
@@ -42,4 +43,4 @@ I'm Alexey Pirogov, a final-year student at Penza State University, majoring in 
 
 ---
 
-Thanks for visiting my profile! Feel free to reach out if you have any collaboration ideas!
+Thanks for visiting my profile! Feel free to reach from if you have collaboration ideas!
