@@ -40,6 +40,10 @@ I'm **Alexey Pirogov**, a final-year student at **Penza State University**, majo
 ![Stats](https://github-readme-stats.vercel.app/api?username=light-hat&rank_icon=github)
 ![Languages](https://github-readme-stats.vercel.app/api/top-langs?username=light-hat&layout=compact&langs_count=8)
 
+## Contact me
+
+<a href="https://t.me/engin1gger"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"></a>
+
 ---
 
 Thanks for visiting my profile! Feel free to reach from if you have collaboration ideas!
