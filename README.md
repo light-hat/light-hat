@@ -39,7 +39,7 @@ I'm **Alexey Pirogov**, a final-year student at **Penza State University**, majo
 ## Github stats
 
 ![Stats](https://github-readme-stats.vercel.app/api?username=light-hat&rank_icon=github)
-![Languages](https://github-readme-stats.vercel.app/api/top-langs?username=light-hat&layout=compact&langs_count=8)
+![Languages stats](https://github-readme-stats.vercel.app/api/top-langs?username=light-hat&layout=compact&langs_count=8)
 
 ## Leetcode
 
