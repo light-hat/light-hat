@@ -21,9 +21,9 @@ I'm <b>Alexey Pirogov</b>, a final-year student at <b>Penza State University</b>
 
 </p>
 
-<h2 align="center"> 🛠️ My Favorite Tools </h2>
+<h2 align="left"> 🛠️ My tech stack </h2>
 
-<p align="center">
+<p align="left">
 <img src="https://img.shields.io/badge/Obsidian-%23483699.svg?style=for-the-badge&logo=obsidian&logoColor=white">
 <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white">
 <img src="https://img.shields.io/badge/VIM-%2311AB00.svg?style=for-the-badge&logo=vim&logoColor=white">
@@ -57,19 +57,19 @@ I'm <b>Alexey Pirogov</b>, a final-year student at <b>Penza State University</b>
 <img src="https://img.shields.io/badge/bash_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white">
 </p>
 
-<h2 align="center">🐾 Pet Projects</h2>
+<h2 align="left">🐾 Pet Projects</h2>
 
-<p align="center">
+<p align="left">
 <a href="https://github.com/light-hat/smart_ids"><img src="https://github-readme-stats.vercel.app/api/pin/?username=light-hat&repo=smart_ids&show_icons=false&theme=transparent" alt="smart_ids"></a>
 </p>
 
-<h2 align="center">🛡️ DevSecOps Cases</h2>
+<h2 align="left">🛡️ DevSecOps Cases</h2>
 
-<p align="center">
+<p align="left">
 <a href="https://github.com/light-hat/area-51"><img src="https://github-readme-stats.vercel.app/api/pin/?username=light-hat&repo=area-51&show_icons=false&theme=transparent" alt="area-51"></a>
 </p>
 
-<h2 align="center">📚 University Projects</h2>
+<h2 align="left">📚 University Projects</h2>
 
 <p align="center">
 <a href="https://github.com/light-hat/audio-scrambler"><img src="https://github-readme-stats.vercel.app/api/pin/?username=light-hat&repo=audio-scrambler&show_icons=false&theme=transparent" alt="audio-scrambler"></a>
@@ -78,12 +78,12 @@ I'm <b>Alexey Pirogov</b>, a final-year student at <b>Penza State University</b>
 <a href="https://github.com/light-hat/biometric-correlation-calc"><img src="https://github-readme-stats.vercel.app/api/pin/?username=light-hat&repo=biometric-correlation-calc&show_icons=false&theme=transparent" alt="biometric-correlation-calc"></a>
 </p>
 
-<h2 align="center"> 💬 Contact me </h2>
+<h2 align="left"> 💬 Contact me </h2>
 
-<p align="center">
+<p align="left">
 <a href="https://t.me/engin1gger"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"></a>
 </p>
 
-<p align="center">
+<p align="left">
 Thanks for visiting my profile! Feel free to reach from if you have collaboration ideas!
 </p>
