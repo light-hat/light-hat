@@ -1,11 +1,3 @@
-<p align="center">
-<img src="https://github-readme-streak-stats-9m8ugfa77-denvercoder1.vercel.app/?user=light-hat&hide_border=true&theme=transparent">
-
-<img src="https://github-readme-stats.vercel.app/api?username=light-hat&rank_icon=github&theme=transparent&hide_border=true">
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=light-hat&layout=compact&theme=transparent&hide_border=true">
-
-</p>
-
 <h1 align="center"> Hi there <img src="assets/hello.gif" width="5%"></h1>
 
 <p align="center">
@@ -15,6 +7,14 @@
     <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/light-hat?style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
   <a href="https://github.com/light-hat/">
     <img alt="views" title="GitHub profile views" src="https://komarev.com/ghpvc/?username=light-hat&style=for-the-badge"/></a>
+</p>
+
+<p align="center">
+<img src="https://github-readme-streak-stats-9m8ugfa77-denvercoder1.vercel.app/?user=light-hat&hide_border=true&theme=transparent">
+
+<img src="https://github-readme-stats.vercel.app/api?username=light-hat&rank_icon=github&theme=transparent&hide_border=true">
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=light-hat&layout=compact&theme=transparent&hide_border=true">
+
 </p>
 
 <p align="center">
