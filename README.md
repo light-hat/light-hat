@@ -71,7 +71,7 @@ I'm **Alexey Pirogov**, a final-year student at **Penza State University**, majo
 ![Streak](https://github-readme-streak-stats-9m8ugfa77-denvercoder1.vercel.app/?user=light-hat&hide_border=true)
 
 ![Stats](https://github-readme-stats.vercel.app/api?username=light-hat&rank_icon=github)
-![Languages](https://github-readme-stats.vercel.app/api/top-langs?username=light-hat&layout=compact&langs_count=8)
+![Languages stats](https://github-readme-stats.vercel.app/api/top-langs?username=light-hat&layout=compact)
 
 ![Contribution graph](https://github-readme-activity-graph.vercel.app/graph/?username=light-hat&&hide_border=true)
 
