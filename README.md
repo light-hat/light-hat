@@ -2,7 +2,7 @@
 
 I'm **Alexey Pirogov**, a final-year student at **Penza State University**, majoring in **Information Security of Systems and Technologies**. As a **Python Backend Developer** and **DevOps Engineer**, I'm passionate about building secure and scalable backend systems while also exploring the fascinating world of cybersecurity. **DevSecOps** occupies a special place in my area of interest. Here, I develop my pet projects and explore new technologies.
 
-## My tech stack
+## 🛠️ My Favorite Tools
 
 ![Obsidian](https://img.shields.io/badge/Obsidian-%23483699.svg?style=for-the-badge&logo=obsidian&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
@@ -36,16 +36,46 @@ I'm **Alexey Pirogov**, a final-year student at **Penza State University**, majo
 ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white)
 ![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
 
-## Github stats
+<details open>
+<summary><h2>🐾 Pet projects</h2></summary>
+
+<p align="left">
+<a href="https://github.com/light-hat/smart_ids"><img src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=light-hat&repo=smart_ids&show_icons=false" alt="smart_ids"></a>
+</p>
+
+</details>
+
+<details open>
+<summary><h2>🛡️ DevSecOps cases</h2></summary>
+
+<p align="left">
+<a href="https://github.com/light-hat/area-51"><img src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=light-hat&repo=area-51&show_icons=false" alt="area-51"></a>
+</p>
+
+</details>
+
+<details open>
+<summary><h2>📚 University projects</h2></summary>
+
+<p align="left">
+<a href="https://github.com/light-hat/audio-scrambler"><img src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=light-hat&repo=audio-scrambler&show_icons=false" alt="audio-scrambler"></a>
+<a href="https://github.com/light-hat/biometric-calculation"><img src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=light-hat&repo=biometric-calculation&show_icons=false" alt="biometric-calculation"></a>
+<a href="https://github.com/light-hat/tcp-client-server"><img src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=light-hat&repo=tcp-client-server&show_icons=false" alt="tcp-client-server"></a>
+<a href="https://github.com/light-hat/biometric-correlation-calc"><img src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=light-hat&repo=biometric-correlation-calc&show_icons=false" alt="biometric-correlation-calc"></a>
+</p>
+
+</details>
+
+## 📊 Activity
+
+![Streak](https://github-readme-streak-stats-9m8ugfa77-denvercoder1.vercel.app/?user=light-hat&hide_border=true)
 
 ![Stats](https://github-readme-stats.vercel.app/api?username=light-hat&rank_icon=github)
 ![Languages](https://github-readme-stats.vercel.app/api/top-langs?username=light-hat&layout=compact&langs_count=8)
 
-## Leetcode
+![Contribution graph](https://github-readme-activity-graph.vercel.app/graph/?username=light-hat&&hide_border=true)
 
-![Leetcode Stats](https://leetcard.jacoblin.cool/l1ghth4t?ext=activity)
-
-## Contact me
+## 💬 Contact me
 
 <a href="https://t.me/engin1gger"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"></a>
 
