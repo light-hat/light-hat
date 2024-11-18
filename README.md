@@ -52,22 +52,22 @@ I'm <b>Alexey Pirogov</b>, a final-year student at <b>Penza State University</b>
 <h2 align="center">🐾 Pet projects</h2>
 
 <p align="center">
-<a href="https://github.com/light-hat/smart_ids"><img src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=light-hat&repo=smart_ids&show_icons=false" alt="smart_ids"></a>
+<a href="https://github.com/light-hat/smart_ids"><img src="https://github-readme-stats.vercel.app/api/pin/?username=light-hat&repo=smart_ids&show_icons=false" alt="smart_ids"></a>
 </p>
 
 <h2 align="center">🛡️ DevSecOps cases</h2>
 
 <p align="center">
-<a href="https://github.com/light-hat/area-51"><img src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=light-hat&repo=area-51&show_icons=false" alt="area-51"></a>
+<a href="https://github.com/light-hat/area-51"><img src="https://github-readme-stats.vercel.app/api/pin/?username=light-hat&repo=area-51&show_icons=false" alt="area-51"></a>
 </p>
 
 <h2 align="center">📚 University projects</h2>
 
 <p align="center">
-<a href="https://github.com/light-hat/audio-scrambler"><img src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=light-hat&repo=audio-scrambler&show_icons=false" alt="audio-scrambler"></a>
-<a href="https://github.com/light-hat/biometric-calculation"><img src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=light-hat&repo=biometric-calculation&show_icons=false" alt="biometric-calculation"></a>
-<a href="https://github.com/light-hat/tcp-client-server"><img src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=light-hat&repo=tcp-client-server&show_icons=false" alt="tcp-client-server"></a>
-<a href="https://github.com/light-hat/biometric-correlation-calc"><img src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=light-hat&repo=biometric-correlation-calc&show_icons=false" alt="biometric-correlation-calc"></a>
+<a href="https://github.com/light-hat/audio-scrambler"><img src="https://github-readme-stats.vercel.app/api/pin/?username=light-hat&repo=audio-scrambler&show_icons=false&theme=transparent" alt="audio-scrambler"></a>
+<a href="https://github.com/light-hat/biometric-calculation"><img src="https://github-readme-stats.vercel.app/api/pin/?username=light-hat&repo=biometric-calculation&show_icons=false&theme=transparent" alt="biometric-calculation"></a>
+<a href="https://github.com/light-hat/tcp-client-server"><img src="https://github-readme-stats.vercel.app/api/pin/?username=light-hat&repo=tcp-client-server&show_icons=false&theme=transparent" alt="tcp-client-server"></a>
+<a href="https://github.com/light-hat/biometric-correlation-calc"><img src="https://github-readme-stats.vercel.app/api/pin/?username=light-hat&repo=biometric-correlation-calc&show_icons=false&theme=transparent" alt="biometric-correlation-calc"></a>
 </p>
 
 <h2 align="center"> 📊 Activity </h2>
