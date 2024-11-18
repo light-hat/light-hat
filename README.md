@@ -16,7 +16,7 @@ I'm <b>Alexey Pirogov</b>, a final-year student at <b>Penza State University</b>
 <p align="center">
 <img src="https://github-readme-streak-stats-9m8ugfa77-denvercoder1.vercel.app/?user=light-hat&theme=transparent&hide_border=true&theme=gotham">
 
-<img src="https://github-readme-stats.vercel.app/api?username=light-hat&rank_icon=github&hide_border=true&theme=transparent">
+<img src="https://github-readme-stats.vercel.app/api?username=light-hat&hide_border=true&theme=transparent">
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=light-hat&layout=compact&hide_border=true&theme=transparent">
 
 </p>
