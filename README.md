@@ -52,13 +52,13 @@ I'm <b>Alexey Pirogov</b>, a final-year student at <b>Penza State University</b>
 <h2 align="center">🐾 Pet projects</h2>
 
 <p align="center">
-<a href="https://github.com/light-hat/smart_ids"><img src="https://github-readme-stats.vercel.app/api/pin/?username=light-hat&repo=smart_ids&show_icons=false" alt="smart_ids"></a>
+<a href="https://github.com/light-hat/smart_ids"><img src="https://github-readme-stats.vercel.app/api/pin/?username=light-hat&repo=smart_ids&show_icons=false&theme=transparent" alt="smart_ids"></a>
 </p>
 
 <h2 align="center">🛡️ DevSecOps cases</h2>
 
 <p align="center">
-<a href="https://github.com/light-hat/area-51"><img src="https://github-readme-stats.vercel.app/api/pin/?username=light-hat&repo=area-51&show_icons=false" alt="area-51"></a>
+<a href="https://github.com/light-hat/area-51"><img src="https://github-readme-stats.vercel.app/api/pin/?username=light-hat&repo=area-51&show_icons=false&theme=transparent" alt="area-51"></a>
 </p>
 
 <h2 align="center">📚 University projects</h2>
