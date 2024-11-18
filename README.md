@@ -10,15 +10,15 @@
 </p>
 
 <p align="center">
+I'm <b>Alexey Pirogov</b>, a final-year student at <b>Penza State University</b>, majoring in <b>Information Security of Systems and Technologies</b>. As a <b>Python Backend Developer</b> and <b>DevOps Engineer</b>, I'm passionate about building secure and scalable backend systems while also exploring the fascinating world of cybersecurity. <b>DevSecOps</b> occupies a special place in my area of interest. Here, I develop my pet projects and explore new technologies.
+</p>
+
+<p align="center">
 <img src="https://github-readme-streak-stats-9m8ugfa77-denvercoder1.vercel.app/?user=light-hat&hide_border=true&theme=transparent">
 
 <img src="https://github-readme-stats.vercel.app/api?username=light-hat&rank_icon=github&theme=transparent&hide_border=true">
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=light-hat&layout=compact&theme=transparent&hide_border=true">
 
-</p>
-
-<p align="center">
-I'm <b>Alexey Pirogov</b>, a final-year student at <b>Penza State University</b>, majoring in <b>Information Security of Systems and Technologies</b>. As a <b>Python Backend Developer</b> and <b>DevOps Engineer</b>, I'm passionate about building secure and scalable backend systems while also exploring the fascinating world of cybersecurity. <b>DevSecOps</b> occupies a special place in my area of interest. Here, I develop my pet projects and explore new technologies.
 </p>
 
 <h2 align="center"> 🛠️ My Favorite Tools </h2>
