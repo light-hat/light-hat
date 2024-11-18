@@ -10,7 +10,7 @@
 </p>
 
 <p align="center">
-I'm <b>Alexey Pirogov</b>, a final-year student at **Penza State University**, majoring in **Information Security of Systems and Technologies**. As a **Python Backend Developer** and **DevOps Engineer**, I'm passionate about building secure and scalable backend systems while also exploring the fascinating world of cybersecurity. **DevSecOps** occupies a special place in my area of interest. Here, I develop my pet projects and explore new technologies.
+I'm <b>Alexey Pirogov</b>, a final-year student at <b>Penza State University</b>, majoring in <b>Information Security of Systems and Technologies</b>. As a <b>Python Backend Developer</b> and <b>DevOps Engineer</b>, I'm passionate about building secure and scalable backend systems while also exploring the fascinating world of cybersecurity. <b>DevSecOps</b> occupies a special place in my area of interest. Here, I develop my pet projects and explore new technologies.
 </p>
 
 <h2 align="center"> 🛠️ My Favorite Tools </h2>
