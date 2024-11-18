@@ -10,6 +10,14 @@
 </p>
 
 <p align="center">
+<img src="https://github-readme-streak-stats-9m8ugfa77-denvercoder1.vercel.app/?user=light-hat&hide_border=true&theme=transparent">
+
+<img src="https://github-readme-stats.vercel.app/api?username=light-hat&rank_icon=github&theme=transparent&hide_border=true">
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=light-hat&layout=compact&theme=transparent&hide_border=true">
+
+</p>
+
+<p align="center">
 I'm <b>Alexey Pirogov</b>, a final-year student at <b>Penza State University</b>, majoring in <b>Information Security of Systems and Technologies</b>. As a <b>Python Backend Developer</b> and <b>DevOps Engineer</b>, I'm passionate about building secure and scalable backend systems while also exploring the fascinating world of cybersecurity. <b>DevSecOps</b> occupies a special place in my area of interest. Here, I develop my pet projects and explore new technologies.
 </p>
 
@@ -64,20 +72,10 @@ I'm <b>Alexey Pirogov</b>, a final-year student at <b>Penza State University</b>
 <h2 align="center">📚 University projects</h2>
 
 <p align="center">
-<a href="https://github.com/light-hat/audio-scrambler"><img src="https://github-readme-stats.vercel.app/api/pin/?username=light-hat&repo=audio-scrambler&show_icons=false&theme=transparent&hide_border=true" alt="audio-scrambler"></a>
-<a href="https://github.com/light-hat/biometric-calculation"><img src="https://github-readme-stats.vercel.app/api/pin/?username=light-hat&repo=biometric-calculation&show_icons=false&theme=transparent&hide_border=true" alt="biometric-calculation"></a>
-<a href="https://github.com/light-hat/tcp-client-server"><img src="https://github-readme-stats.vercel.app/api/pin/?username=light-hat&repo=tcp-client-server&show_icons=false&theme=transparent&hide_border=true" alt="tcp-client-server"></a>
-<a href="https://github.com/light-hat/biometric-correlation-calc"><img src="https://github-readme-stats.vercel.app/api/pin/?username=light-hat&repo=biometric-correlation-calc&show_icons=false&theme=transparent&hide_border=true" alt="biometric-correlation-calc"></a>
-</p>
-
-<h2 align="center"> 📊 Activity </h2>
-
-<p align="center">
-<img src="https://github-readme-streak-stats-9m8ugfa77-denvercoder1.vercel.app/?user=light-hat&hide_border=true&theme=transparent">
-
-<img src="https://github-readme-stats.vercel.app/api?username=light-hat&rank_icon=github&theme=transparent&hide_border=true">
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=light-hat&layout=compact&theme=transparent&hide_border=true">
-
+<a href="https://github.com/light-hat/audio-scrambler"><img src="https://github-readme-stats.vercel.app/api/pin/?username=light-hat&repo=audio-scrambler&show_icons=false&theme=transparent" alt="audio-scrambler"></a>
+<a href="https://github.com/light-hat/biometric-calculation"><img src="https://github-readme-stats.vercel.app/api/pin/?username=light-hat&repo=biometric-calculation&show_icons=false&theme=transparent" alt="biometric-calculation"></a>
+<a href="https://github.com/light-hat/tcp-client-server"><img src="https://github-readme-stats.vercel.app/api/pin/?username=light-hat&repo=tcp-client-server&show_icons=false&theme=transparent" alt="tcp-client-server"></a>
+<a href="https://github.com/light-hat/biometric-correlation-calc"><img src="https://github-readme-stats.vercel.app/api/pin/?username=light-hat&repo=biometric-correlation-calc&show_icons=false&theme=transparent" alt="biometric-correlation-calc"></a>
 </p>
 
 <h2 align="center"> 💬 Contact me </h2>
