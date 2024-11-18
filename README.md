@@ -49,26 +49,19 @@ I'm **Alexey Pirogov**, a final-year student at **Penza State University**, majo
 <img src="https://img.shields.io/badge/bash_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white">
 </p>
 
-<details open>
-<summary><h2 align="center">🐾 Pet projects</h2></summary>
+<h2 align="center">🐾 Pet projects</h2>
 
 <p align="center">
 <a href="https://github.com/light-hat/smart_ids"><img src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=light-hat&repo=smart_ids&show_icons=false" alt="smart_ids"></a>
 </p>
 
-</details>
-
-<details open>
-<summary><h2 align="center">🛡️ DevSecOps cases</h2></summary>
+<h2 align="center">🛡️ DevSecOps cases</h2>
 
 <p align="center">
 <a href="https://github.com/light-hat/area-51"><img src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=light-hat&repo=area-51&show_icons=false" alt="area-51"></a>
 </p>
 
-</details>
-
-<details open>
-<summary><h2 align="center">📚 University projects</h2></summary>
+<h2 align="center">📚 University projects</h2>
 
 <p align="center">
 <a href="https://github.com/light-hat/audio-scrambler"><img src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=light-hat&repo=audio-scrambler&show_icons=false" alt="audio-scrambler"></a>
@@ -76,8 +69,6 @@ I'm **Alexey Pirogov**, a final-year student at **Penza State University**, majo
 <a href="https://github.com/light-hat/tcp-client-server"><img src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=light-hat&repo=tcp-client-server&show_icons=false" alt="tcp-client-server"></a>
 <a href="https://github.com/light-hat/biometric-correlation-calc"><img src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=light-hat&repo=biometric-correlation-calc&show_icons=false" alt="biometric-correlation-calc"></a>
 </p>
-
-</details>
 
 <h2 align="center"> 📊 Activity </h2>
 
@@ -88,8 +79,6 @@ I'm **Alexey Pirogov**, a final-year student at **Penza State University**, majo
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=light-hat&layout=compact">
 
 </p>
-
----
 
 <h2 align="center"> 💬 Contact me </h2>
 
