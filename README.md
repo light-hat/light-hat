@@ -1,5 +1,3 @@
-<h1 align="center"> Hi there <img src="assets/hello.gif" width="5%"></h1>
-
 <p align="center">
 <img src="https://github-readme-streak-stats-9m8ugfa77-denvercoder1.vercel.app/?user=light-hat&hide_border=true&theme=transparent">
 
@@ -7,6 +5,8 @@
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=light-hat&layout=compact&theme=transparent&hide_border=true">
 
 </p>
+
+<h1 align="center"> Hi there <img src="assets/hello.gif" width="5%"></h1>
 
 <p align="center">
   <a href="https://github.com/light-hat?tab=repositories&sort=stargazers">
