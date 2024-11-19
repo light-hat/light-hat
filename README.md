@@ -66,7 +66,7 @@ I'm <b>Alexey Pirogov</b>, a final-year student at <b>Penza State University</b>
 <h2 align="center">🛡️ DevSecOps Cases</h2>
 
 <p align="center">
-<a href="https://github.com/light-hat/area-51"><img src="https://github-readme-stats.vercel.app/api/pin/?username=light-hat&repo=area-51&show_icons=true&theme=transparent" alt="area-51"></a>
+<a href="https://github.com/light-hat/python-devsecops"><img src="https://github-readme-stats.vercel.app/api/pin/?username=light-hat&repo=python-devsecops&show_icons=true&theme=transparent" alt="area-51"></a>
 </p>
 
 <h2 align="center">📚 University Projects</h2>
