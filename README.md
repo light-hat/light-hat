@@ -19,6 +19,8 @@ I'm <b>Alexey Pirogov</b>, a final-year student at <b>Penza State University</b>
 <img src="https://github-readme-stats.vercel.app/api?username=light-hat&hide_border=true&theme=transparent">
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=light-hat&layout=compact&hide_border=true&theme=transparent">
 
+<img src="https://github-profile-trophy.vercel.app/?username=light-hat">
+
 </p>
 
 <h2 align="center"> 🛠️ My tech stack </h2>
