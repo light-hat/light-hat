@@ -2,9 +2,9 @@
 
 <p align="center">
   <a href="https://github.com/light-hat?tab=repositories&sort=stargazers">
-    <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/light-hat?style=for-the-badge&logo=star&date=231124"/></a>
+    <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/light-hat?style=for-the-badge&logo=star&date=251124"/></a>
   <a href="https://github.com/light-hat?tab=followers">
-    <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/light-hat?style=for-the-badge&logo=person-add&label=Follow&logoColor=white&date=231124"/></a>
+    <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/light-hat?style=for-the-badge&logo=person-add&label=Follow&logoColor=white&date=251124"/></a>
   <a href="https://github.com/light-hat/">
     <img alt="views" title="GitHub profile views" src="https://komarev.com/ghpvc/?username=light-hat&style=for-the-badge"/></a>
 </p>
@@ -14,12 +14,12 @@ I'm <b>Alexey Pirogov</b>, a final-year student at <b>Penza State University</b>
 </p>
 
 <p align="center">
-<img src="https://github-readme-streak-stats-9m8ugfa77-denvercoder1.vercel.app/?user=light-hat&theme=transparent&hide_border=true&date=231124">
+<img src="https://github-readme-streak-stats-9m8ugfa77-denvercoder1.vercel.app/?user=light-hat&theme=transparent&hide_border=true&date=251124">
 
-<img src="https://github-readme-stats.vercel.app/api?username=light-hat&hide_border=true&theme=transparent&date=231124">
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=light-hat&layout=compact&hide_border=true&theme=transparent&date=231124">
+<img src="https://github-readme-stats.vercel.app/api?username=light-hat&hide_border=true&theme=transparent&date=251124">
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=light-hat&layout=compact&hide_border=true&theme=transparent&date=251124">
 
-<img src="https://github-profile-trophy.vercel.app/?username=light-hat&theme=discord&date=231124">
+<img src="https://github-profile-trophy.vercel.app/?username=light-hat&theme=discord&date=251124">
 
 </p>
 
@@ -62,23 +62,23 @@ I'm <b>Alexey Pirogov</b>, a final-year student at <b>Penza State University</b>
 <h2 align="center">🐾 Pet Projects</h2>
 
 <p align="center">
-<a href="https://github.com/light-hat/smart_ids"><img src="https://github-readme-stats.vercel.app/api/pin/?username=light-hat&repo=smart_ids&show_icons=true&theme=transparent&date=231124" alt="smart_ids"></a>
-<a href="https://github.com/light-hat/gulfstream"><img src="https://github-readme-stats.vercel.app/api/pin/?username=light-hat&repo=gulfstream&show_icons=true&theme=transparent&date=231124" alt="smart_ids"></a>
+<a href="https://github.com/light-hat/smart_ids"><img src="https://github-readme-stats.vercel.app/api/pin/?username=light-hat&repo=smart_ids&show_icons=true&theme=transparent&date=251124" alt="smart_ids"></a>
+<a href="https://github.com/light-hat/gulfstream"><img src="https://github-readme-stats.vercel.app/api/pin/?username=light-hat&repo=gulfstream&show_icons=true&theme=transparent&date=251124" alt="smart_ids"></a>
 </p>
 
 <h2 align="center">🛡️ DevSecOps Cases</h2>
 
 <p align="center">
-<a href="https://github.com/light-hat/python-devsecops"><img src="https://github-readme-stats.vercel.app/api/pin/?username=light-hat&repo=python-devsecops&show_icons=true&theme=transparent&date=231124" alt="area-51"></a>
+<a href="https://github.com/light-hat/python-devsecops"><img src="https://github-readme-stats.vercel.app/api/pin/?username=light-hat&repo=python-devsecops&show_icons=true&theme=transparent&date=251124" alt="area-51"></a>
 </p>
 
 <h2 align="center">📚 University Projects</h2>
 
 <p align="center">
-<a href="https://github.com/light-hat/audio-scrambler"><img src="https://github-readme-stats.vercel.app/api/pin/?username=light-hat&repo=audio-scrambler&show_icons=true&theme=transparent&date=231124" alt="audio-scrambler"></a>
-<a href="https://github.com/light-hat/biometric-calculation"><img src="https://github-readme-stats.vercel.app/api/pin/?username=light-hat&repo=biometric-calculation&show_icons=true&theme=transparent&date=231124" alt="biometric-calculation"></a>
-<a href="https://github.com/light-hat/tcp-client-server"><img src="https://github-readme-stats.vercel.app/api/pin/?username=light-hat&repo=tcp-client-server&show_icons=true&theme=transparent&date=231124" alt="tcp-client-server"></a>
-<a href="https://github.com/light-hat/biometric-correlation-calc"><img src="https://github-readme-stats.vercel.app/api/pin/?username=light-hat&repo=biometric-correlation-calc&show_icons=true&theme=transparent&date=231124" alt="biometric-correlation-calc"></a>
+<a href="https://github.com/light-hat/audio-scrambler"><img src="https://github-readme-stats.vercel.app/api/pin/?username=light-hat&repo=audio-scrambler&show_icons=true&theme=transparent&date=251124" alt="audio-scrambler"></a>
+<a href="https://github.com/light-hat/biometric-calculation"><img src="https://github-readme-stats.vercel.app/api/pin/?username=light-hat&repo=biometric-calculation&show_icons=true&theme=transparent&date=251124" alt="biometric-calculation"></a>
+<a href="https://github.com/light-hat/tcp-client-server"><img src="https://github-readme-stats.vercel.app/api/pin/?username=light-hat&repo=tcp-client-server&show_icons=true&theme=transparent&date=251124" alt="tcp-client-server"></a>
+<a href="https://github.com/light-hat/biometric-correlation-calc"><img src="https://github-readme-stats.vercel.app/api/pin/?username=light-hat&repo=biometric-correlation-calc&show_icons=true&theme=transparent&date=251124" alt="biometric-correlation-calc"></a>
 </p>
 
 <h2 align="center"> 💬 Contact me </h2>
