@@ -13,6 +13,13 @@
 I'm <b>Alexey Pirogov</b>, a final-year student at <b>Penza State University</b>, majoring in <b>Information Security of Systems and Technologies</b>. As a <b>Python Backend Developer</b> and <b>DevOps Engineer</b>, I'm passionate about building secure and scalable backend systems while also exploring the fascinating world of cybersecurity. <b>DevSecOps</b> occupies a special place in my area of interest. Here, I develop my pet projects and explore new technologies.
 </p>
 
+- 🔭 I’m actively developing my pet projects and building an IAST (Interactive Application Security Testing) system as part of my thesis.
+- 🌱 I’m currently learning the fundamentals of machine learning, focusing on its applications in cybersecurity and automation.
+- 👯 I’m looking to collaborate on ...
+- 💬 Feel free to ask me anything about Linux, Docker, or backend development with Django.
+- 📫 How to reach me: ...
+- ⚡ Fun fact: ...
+
 <p align="center">
 <img src="https://github-readme-streak-stats-9m8ugfa77-denvercoder1.vercel.app/?user=light-hat&theme=transparent&hide_border=true&date=281124">
 
