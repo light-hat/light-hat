@@ -9,15 +9,15 @@
     <img alt="views" title="GitHub profile views" src="https://komarev.com/ghpvc/?username=light-hat&style=for-the-badge"/></a>
 </p>
 
+<p align="left">
+I'm <b>Alexey Pirogov</b>, a final-year student at <b>Penza State University</b>, majoring in <b>Information Security of Systems and Technologies</b>. As a <b>Python Backend Developer</b> and <b>DevOps Engineer</b>, I'm passionate about building secure and scalable backend systems while also exploring the fascinating world of cybersecurity. <b>DevSecOps</b> occupies a special place in my area of interest. Here, I develop my pet projects and explore new technologies.
+</p>
+
 - 🔭 I’m actively developing my pet projects and building an IAST (Interactive Application Security Testing) system as part of my thesis.
 - 🌱 I’m currently learning the fundamentals of machine learning, focusing on its applications in cybersecurity and automation.
 - 👯 I’m looking to collaborate on research at the intersection of machine learning and cybersecurity.
 - 💬 Feel free to ask me anything about Linux, Docker, or backend development with Django.
 - ⚡ Fun fact: I write scripts to simplify my life, including one that tracks how much coffee I drink in a day.
-
-<p align="center">
-I'm <b>Alexey Pirogov</b>, a final-year student at <b>Penza State University</b>, majoring in <b>Information Security of Systems and Technologies</b>. As a <b>Python Backend Developer</b> and <b>DevOps Engineer</b>, I'm passionate about building secure and scalable backend systems while also exploring the fascinating world of cybersecurity. <b>DevSecOps</b> occupies a special place in my area of interest. Here, I develop my pet projects and explore new technologies.
-</p>
 
 <p align="center">
 <img src="https://github-readme-streak-stats-9m8ugfa77-denvercoder1.vercel.app/?user=light-hat&theme=transparent&hide_border=true&date=281124">
@@ -31,6 +31,8 @@ I'm <b>Alexey Pirogov</b>, a final-year student at <b>Penza State University</b>
 
 <h2 align="center"> 🛠️ My tech stack </h2>
 
+<h2 align="center">Development tools</h2>
+
 <p align="center">
 <img src="https://img.shields.io/badge/Obsidian-%23483699.svg?style=for-the-badge&logo=obsidian&logoColor=white">
 <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white">
@@ -38,21 +40,48 @@ I'm <b>Alexey Pirogov</b>, a final-year student at <b>Penza State University</b>
 <img src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white">
 <img src="https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white">
 </p>
+
+<h2 align="center">Scripting</h2>
+
+<p align="center">
+<img src="https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white">
+<img src="https://img.shields.io/badge/bash_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white">
+</p>
+
+<h2 align="center">Programming languages</h2>
+
 <p align="center">
 <img src="https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white">
 <img src="https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white">
 <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54">
 </p>
+
+<h2 align="center">Backend frameworks</h2>
+
 <p align="center">
 <img src="https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white">
 <img src="https://img.shields.io/badge/DJANGO-REST-ff1709?style=for-the-badge&logo=django&logoColor=white&color=ff1709&labelColor=gray">
 <img src="https://img.shields.io/badge/celery-%23a9cc54.svg?style=for-the-badge&logo=celery&logoColor=ddf4a4">
 </p>
+
+<h2 align="center">Databases</h2>
+
 <p align="center">
 <img src="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white">
 <img src="https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white">
 <img src="https://img.shields.io/badge/elasticsearch-%230377CC.svg?style=for-the-badge&logo=elasticsearch&logoColor=white">
 </p>
+
+<h2 align="center">CI/CD systems</h2>
+
+<p align="center">
+<img src="https://img.shields.io/badge/jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white">
+<img src="https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white">
+<img src="https://img.shields.io/badge/teamcity-000000.svg?style=for-the-badge&logo=teamcity&logoColor=white">
+</p>
+
+<h2 align="center">Another DevOps tools</h2>
+
 <p align="center">
 <img src="https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white">
 <img src="https://img.shields.io/badge/grafana-%23F46800.svg?style=for-the-badge&logo=grafana&logoColor=white">
@@ -61,15 +90,6 @@ I'm <b>Alexey Pirogov</b>, a final-year student at <b>Penza State University</b>
 <img src="https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white">
 <img src="https://img.shields.io/badge/ansible-%231A1918.svg?style=for-the-badge&logo=ansible&logoColor=white">
 <img src="https://img.shields.io/badge/vagrant-%231563FF.svg?style=for-the-badge&logo=vagrant&logoColor=white">
-</p>
-<p align="center">
-<img src="https://img.shields.io/badge/jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white">
-<img src="https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white">
-<img src="https://img.shields.io/badge/teamcity-000000.svg?style=for-the-badge&logo=teamcity&logoColor=white">
-</p>
-<p align="center">
-<img src="https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white">
-<img src="https://img.shields.io/badge/bash_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white">
 </p>
 
 <h2 align="center">🐾 Pet Projects</h2>
