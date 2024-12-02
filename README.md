@@ -31,7 +31,7 @@ I'm <b>Alexey Pirogov</b>, a final-year student at <b>Penza State University</b>
 
 <h2 align="center"> 🛠️ My tech stack </h2>
 
-<h3 align="center">Development tools</h2>
+<h3 align="left">Development tools</h2>
 
 <p align="center">
 <img src="https://img.shields.io/badge/Obsidian-%23483699.svg?style=for-the-badge&logo=obsidian&logoColor=white">
@@ -42,14 +42,14 @@ I'm <b>Alexey Pirogov</b>, a final-year student at <b>Penza State University</b>
 <img src="https://img.shields.io/badge/Google%20Colab-%23F9A825.svg?style=for-the-badge&logo=googlecolab&logoColor=white">
 </p>
 
-<h3 align="center">Scripting</h2>
+<h3 align="left">Scripting</h2>
 
 <p align="center">
 <img src="https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white">
 <img src="https://img.shields.io/badge/bash_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white">
 </p>
 
-<h3 align="center">Programming languages</h2>
+<h3 align="left">Programming languages</h2>
 
 <p align="center">
 <img src="https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white">
@@ -58,7 +58,7 @@ I'm <b>Alexey Pirogov</b>, a final-year student at <b>Penza State University</b>
 <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E">
 </p>
 
-<h3 align="center">Frameworks for Web Development</h2>
+<h3 align="left">Frameworks for Web Development</h2>
 
 <p align="center">
 <img src="https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D">
@@ -67,7 +67,7 @@ I'm <b>Alexey Pirogov</b>, a final-year student at <b>Penza State University</b>
 <img src="https://img.shields.io/badge/celery-%23a9cc54.svg?style=for-the-badge&logo=celery&logoColor=ddf4a4">
 </p>
 
-<h3 align="center">Databases</h2>
+<h3 align="left">Databases</h2>
 
 <p align="center">
 <img src="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white">
@@ -75,7 +75,7 @@ I'm <b>Alexey Pirogov</b>, a final-year student at <b>Penza State University</b>
 <img src="https://img.shields.io/badge/elasticsearch-%230377CC.svg?style=for-the-badge&logo=elasticsearch&logoColor=white">
 </p>
 
-<h3 align="center">CI/CD systems</h2>
+<h3 align="left">CI/CD systems</h2>
 
 <p align="center">
 <img src="https://img.shields.io/badge/jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white">
@@ -83,7 +83,7 @@ I'm <b>Alexey Pirogov</b>, a final-year student at <b>Penza State University</b>
 <img src="https://img.shields.io/badge/teamcity-000000.svg?style=for-the-badge&logo=teamcity&logoColor=white">
 </p>
 
-<h3 align="center">Another DevOps tools</h2>
+<h3 align="left">Another DevOps tools</h2>
 
 <p align="center">
 <img src="https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white">
