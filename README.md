@@ -80,11 +80,6 @@ I'm <b>Alexey Pirogov</b>, a final-year student at <b>Penza State University</b>
 <p align="center">
 <a href="https://github.com/light-hat/smart_ids"><img src="https://github-readme-stats.vercel.app/api/pin/?username=light-hat&repo=smart_ids&show_icons=true&theme=transparent&date=210125" alt="smart_ids"></a>
 <a href="https://github.com/light-hat/gulfstream"><img src="https://github-readme-stats.vercel.app/api/pin/?username=light-hat&repo=gulfstream&show_icons=true&theme=transparent&date=210125" alt="smart_ids"></a>
-</p>
-
-<h2 align="center">🛡️ DevOps/Cybersecurity Cases</h2>
-
-<p align="center">
 <a href="https://github.com/light-hat/devsecops-stand"><img src="https://github-readme-stats.vercel.app/api/pin/?username=light-hat&repo=devsecops-stand&show_icons=true&theme=transparent&date=210125" alt="immunity-iast"></a>
 </p>
 
