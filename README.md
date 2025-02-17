@@ -9,6 +9,9 @@
     <img alt="views" title="GitHub profile views" src="https://komarev.com/ghpvc/?username=light-hat&style=for-the-badge"/></a>
 </p>
 
+(Test)
+<img src="https://custom-icon-badges.demolab.com/github/followers/DenverCoder1?logo=person-add&style=social&logoColor=black"/>
+
 <p align="center">
 <img src="https://github-readme-streak-stats-9m8ugfa77-denvercoder1.vercel.app/?user=light-hat&theme=transparent&hide_border=true&date=000170225">
 
