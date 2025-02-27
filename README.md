@@ -16,7 +16,6 @@
 Recently graduated from <b>Penza State University</b> with a degree in <b>Information Security</b>. I've spent the last 2.5 years as a <b>Python Backend Developer</b> and <b>DevOps Engineer</b>, building everything from web apps to AI-powered tools. I specialize in creating secure systems, automating CI/CD pipelines, and making sure security is baked into every step of development (<b>DevSecOps</b>). Here, you'll find my projects and experiments with cool tech.
 </p>
 
-<div align="center">
 <ul>
 <li> 🔭 Just wrapped up my thesis project: built an <a href="https://github.com/light-hat/immunity-iast"><b>IAST (Interactive Application Security Testing)</b></a> system to catch vulnerabilities on the fly.</li>
 <li> 🌱 Deep in the <b>DevSecOps</b> world, baking security into CI/CD pipelines and catching vulnerabilities before they hit production.</li>
@@ -25,7 +24,6 @@ Recently graduated from <b>Penza State University</b> with a degree in <b>Inform
 <li> 💬 Hit me up if you want to chat about Python, Django, Docker, or how to make your code more secure.</li>
 <li> ⚡ Fun fact: I write scripts to simplify my life, including one that tracks how much coffee I drink in a day.</li>
 </ul>
-</div>
 
 <p align="center">
 <img src="https://github-readme-streak-stats-9m8ugfa77-denvercoder1.vercel.app/?user=light-hat&theme=transparent&hide_border=true&date=1_270225">
