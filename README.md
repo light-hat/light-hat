@@ -10,9 +10,9 @@
 </p>
 
 
-<p align="center">Hey, I'm <b>Alexey Pirogov</b>! 🚀</p>
+<p align="left">Hey, I'm <b>Alexey Pirogov</b>! 🚀</p>
 
-<p align="center">
+<p align="left">
 Recently graduated from <b>Penza State University</b> with a degree in <b>Information Security</b>. I've spent the last 2.5 years as a <b>Python Backend Developer</b> and <b>DevOps Engineer</b>, building everything from web apps to AI-powered tools. I specialize in creating secure systems, automating CI/CD pipelines, and making sure security is baked into every step of development (<b>DevSecOps</b>). Here, you'll find my projects and experiments with cool tech.
 </p>
 
