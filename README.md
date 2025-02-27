@@ -9,6 +9,27 @@
     <img alt="views" title="GitHub profile views" src="https://komarev.com/ghpvc/?username=light-hat&style=for-the-badge"/></a>
 </p>
 
+
+<p align="left">
+
+Hey, I'm <b>Alexey Pirogov</b>! 🚀
+
+Recently graduated from <b>Penza State University</b> with a degree in <b>Information Security</b>. I've spent the last 2.5 years as a <b>Python Backend Developer</b> and <b>DevOps Engineer</b>, building everything from web apps to AI-powered tools. I specialize in creating secure systems, automating CI/CD pipelines, and making sure security is baked into every step of development (<b>DevSecOps</b>). Here, you'll find my projects and experiments with cool tech.
+
+</p>
+
+- 🔭 Just wrapped up my thesis project: built an <b>IAST (Interactive Application Security Testing)</b> system to catch vulnerabilities on the fly.
+
+- 🌱 Deep in the <b>DevSecOps</b> world, baking security into CI/CD pipelines and catching vulnerabilities before they hit production.
+
+- 💻 I’ve got hands-on experience with <b>Python</b>, <b>Django</b>, <b>Docker</b>, <b>CI/CD</b> (Jenkins, GitLab CI), and <b>security tools</b> (Black Duck, static analysis, fuzzing).
+
+- 🤝 Looking to collaborate on projects that mix backend, DevOps, and cybersecurity.
+
+- 💬 Hit me up if you want to chat about Python, Django, Docker, or how to make your code more secure.
+
+- ⚡ Fun fact: I write scripts to simplify my life, including one that tracks how much coffee I drink in a day.
+
 <p align="center">
 <img src="https://github-readme-streak-stats-9m8ugfa77-denvercoder1.vercel.app/?user=light-hat&theme=transparent&hide_border=true&date=0_270225">
 
