@@ -2,20 +2,20 @@
 
 <p align="center">
   <a href="https://github.com/light-hat?tab=repositories&sort=stargazers">
-    <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/light-hat?style=for-the-badge&logo=star&date=_270225"/></a>
+    <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/light-hat?style=for-the-badge&logo=star&date=0_270225"/></a>
   <a href="https://github.com/light-hat?tab=followers">
-    <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/light-hat?style=for-the-badge&logo=person-add&label=Follow&logoColor=white&date=_270225"/></a>
+    <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/light-hat?style=for-the-badge&logo=person-add&label=Follow&logoColor=white&date=0_270225"/></a>
   <a href="https://github.com/light-hat/">
     <img alt="views" title="GitHub profile views" src="https://komarev.com/ghpvc/?username=light-hat&style=for-the-badge"/></a>
 </p>
 
 <p align="center">
-<img src="https://github-readme-streak-stats-9m8ugfa77-denvercoder1.vercel.app/?user=light-hat&theme=transparent&hide_border=true&date=_270225">
+<img src="https://github-readme-streak-stats-9m8ugfa77-denvercoder1.vercel.app/?user=light-hat&theme=transparent&hide_border=true&date=0_270225">
 
-<img src="https://github-readme-stats.vercel.app/api?username=light-hat&hide_border=true&theme=transparent&date=_270225">
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=light-hat&layout=compact&hide_border=true&theme=transparent&date=_270225">
+<img src="https://github-readme-stats.vercel.app/api?username=light-hat&hide_border=true&theme=transparent&date=0_270225">
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=light-hat&layout=compact&hide_border=true&theme=transparent&date=0_270225">
 
-<img src="https://github-profile-trophy.vercel.app/?username=light-hat&theme=discord&title=MultiLanguage,Commits,Followers,Stars,Issues,PullRequest,Repositories,Reviews&date=_270225">
+<img src="https://github-profile-trophy.vercel.app/?username=light-hat&theme=discord&title=MultiLanguage,Commits,Followers,Stars,Issues,PullRequest,Repositories,Reviews&date=0_270225">
 
 </p>
 
@@ -68,29 +68,29 @@
 <h2 align="center">🐾 Pet Projects</h2>
 
 <p align="center">
-<a href="https://github.com/light-hat/smart_ids"><img src="https://github-readme-stats.vercel.app/api/pin/?username=light-hat&repo=smart_ids&show_icons=true&theme=transparent&date=_270225" alt="smart_ids"></a>
-<a href="https://github.com/light-hat/gulfstream"><img src="https://github-readme-stats.vercel.app/api/pin/?username=light-hat&repo=gulfstream&show_icons=true&theme=transparent&date=_270225" alt="smart_ids"></a>
-<!--<a href="https://github.com/light-hat/looking-glass"><img src="https://github-readme-stats.vercel.app/api/pin/?username=light-hat&repo=looking-glass&show_icons=true&theme=transparent&date=_270225" alt="looking-glass"></a>-->
+<a href="https://github.com/light-hat/smart_ids"><img src="https://github-readme-stats.vercel.app/api/pin/?username=light-hat&repo=smart_ids&show_icons=true&theme=transparent&date=0_270225" alt="smart_ids"></a>
+<a href="https://github.com/light-hat/gulfstream"><img src="https://github-readme-stats.vercel.app/api/pin/?username=light-hat&repo=gulfstream&show_icons=true&theme=transparent&date=0_270225" alt="smart_ids"></a>
+<!--<a href="https://github.com/light-hat/looking-glass"><img src="https://github-readme-stats.vercel.app/api/pin/?username=light-hat&repo=looking-glass&show_icons=true&theme=transparent&date=0_270225" alt="looking-glass"></a>-->
 </p>
 
 <h2 align="center">📚 University Projects</h2>
 
 <p align="center">
-<a href="https://github.com/light-hat/biometric-calculation"><img src="https://github-readme-stats.vercel.app/api/pin/?username=light-hat&repo=biometric-calculation&show_icons=true&theme=transparent&date=_270225" alt="biometric-calculation"></a>
-<a href="https://github.com/light-hat/tcp-client-server"><img src="https://github-readme-stats.vercel.app/api/pin/?username=light-hat&repo=tcp-client-server&show_icons=true&theme=transparent&date=_270225" alt="tcp-client-server"></a>
-<a href="https://github.com/light-hat/biometric-correlation-calc"><img src="https://github-readme-stats.vercel.app/api/pin/?username=light-hat&repo=biometric-correlation-calc&show_icons=true&theme=transparent&date=_270225" alt="biometric-correlation-calc"></a>
-<a href="https://github.com/light-hat/immunity-iast"><img src="https://github-readme-stats.vercel.app/api/pin/?username=light-hat&repo=immunity-iast&show_icons=true&theme=transparent&date=_270225" alt="immunity-iast"></a>
-<a href="https://github.com/light-hat/immunity-python-agent"><img src="https://github-readme-stats.vercel.app/api/pin/?username=light-hat&repo=immunity-python-agent&show_icons=true&theme=transparent&date=_270225" alt="immunity-iast-agent"></a>
-<a href="https://github.com/light-hat/devsecops-stand"><img src="https://github-readme-stats.vercel.app/api/pin/?username=light-hat&repo=devsecops-stand&show_icons=true&theme=transparent&date=_270225" alt="devsecops"></a>
+<a href="https://github.com/light-hat/biometric-calculation"><img src="https://github-readme-stats.vercel.app/api/pin/?username=light-hat&repo=biometric-calculation&show_icons=true&theme=transparent&date=0_270225" alt="biometric-calculation"></a>
+<a href="https://github.com/light-hat/tcp-client-server"><img src="https://github-readme-stats.vercel.app/api/pin/?username=light-hat&repo=tcp-client-server&show_icons=true&theme=transparent&date=0_270225" alt="tcp-client-server"></a>
+<a href="https://github.com/light-hat/biometric-correlation-calc"><img src="https://github-readme-stats.vercel.app/api/pin/?username=light-hat&repo=biometric-correlation-calc&show_icons=true&theme=transparent&date=0_270225" alt="biometric-correlation-calc"></a>
+<a href="https://github.com/light-hat/immunity-iast"><img src="https://github-readme-stats.vercel.app/api/pin/?username=light-hat&repo=immunity-iast&show_icons=true&theme=transparent&date=0_270225" alt="immunity-iast"></a>
+<a href="https://github.com/light-hat/immunity-python-agent"><img src="https://github-readme-stats.vercel.app/api/pin/?username=light-hat&repo=immunity-python-agent&show_icons=true&theme=transparent&date=0_270225" alt="immunity-iast-agent"></a>
+<a href="https://github.com/light-hat/devsecops-stand"><img src="https://github-readme-stats.vercel.app/api/pin/?username=light-hat&repo=devsecops-stand&show_icons=true&theme=transparent&date=0_270225" alt="devsecops"></a>
 </p>
 
 <h2 align="center">🥊 Training</h2>
 
 <p align="center">
-<a href="https://github.com/light-hat/leetcode"><img src="https://github-readme-stats.vercel.app/api/pin/?username=light-hat&repo=leetcode&show_icons=true&theme=transparent&date=_270225" alt="leetcode"></a>
-<a href="https://github.com/light-hat/kaggle"><img src="https://github-readme-stats.vercel.app/api/pin/?username=light-hat&repo=kaggle&show_icons=true&theme=transparent&date=_270225" alt="kaggle"></a>
-<a href="https://github.com/light-hat/crackmes"><img src="https://github-readme-stats.vercel.app/api/pin/?username=light-hat&repo=crackmes&show_icons=true&theme=transparent&date=_270225" alt="crackmes"></a>
-<a href="https://github.com/light-hat/hackthebox"><img src="https://github-readme-stats.vercel.app/api/pin/?username=light-hat&repo=hackthebox&show_icons=true&theme=transparent&date=_270225" alt="hackthebox"></a>
+<a href="https://github.com/light-hat/leetcode"><img src="https://github-readme-stats.vercel.app/api/pin/?username=light-hat&repo=leetcode&show_icons=true&theme=transparent&date=0_270225" alt="leetcode"></a>
+<a href="https://github.com/light-hat/kaggle"><img src="https://github-readme-stats.vercel.app/api/pin/?username=light-hat&repo=kaggle&show_icons=true&theme=transparent&date=0_270225" alt="kaggle"></a>
+<a href="https://github.com/light-hat/crackmes"><img src="https://github-readme-stats.vercel.app/api/pin/?username=light-hat&repo=crackmes&show_icons=true&theme=transparent&date=0_270225" alt="crackmes"></a>
+<a href="https://github.com/light-hat/hackthebox"><img src="https://github-readme-stats.vercel.app/api/pin/?username=light-hat&repo=hackthebox&show_icons=true&theme=transparent&date=0_270225" alt="hackthebox"></a>
 </p>
 
 <h2 align="center"> 💬 Contact me </h2>
