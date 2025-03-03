@@ -100,15 +100,6 @@ Recently graduated from <b>Penza State University</b> with a degree in <b>Inform
 <a href="https://github.com/light-hat/devsecops-stand"><img src="https://github-readme-stats.vercel.app/api/pin/?username=light-hat&repo=devsecops-stand&show_icons=true&theme=transparent&date=030325" alt="devsecops"></a>
 </p>
 
-<h2 align="center">🥊 Training</h2>
-
-<p align="center">
-<a href="https://github.com/light-hat/leetcode"><img src="https://github-readme-stats.vercel.app/api/pin/?username=light-hat&repo=leetcode&show_icons=true&theme=transparent&date=030325" alt="leetcode"></a>
-<a href="https://github.com/light-hat/kaggle"><img src="https://github-readme-stats.vercel.app/api/pin/?username=light-hat&repo=kaggle&show_icons=true&theme=transparent&date=030325" alt="kaggle"></a>
-<a href="https://github.com/light-hat/crackmes"><img src="https://github-readme-stats.vercel.app/api/pin/?username=light-hat&repo=crackmes&show_icons=true&theme=transparent&date=030325" alt="crackmes"></a>
-<a href="https://github.com/light-hat/hackthebox"><img src="https://github-readme-stats.vercel.app/api/pin/?username=light-hat&repo=hackthebox&show_icons=true&theme=transparent&date=030325" alt="hackthebox"></a>
-</p>
-
 <h2 align="center"> 💬 Contact me </h2>
 
 <p align="center">
