@@ -25,18 +25,6 @@ Recently graduated from <b>Penza State University</b> with a degree in <b>Inform
 <li> ⚡ Fun fact: I write scripts to simplify my life, including one that tracks how much coffee I drink in a day.</li>
 </ul>
 
-<h2 align="center"> 📊 My profile stats</h2>
-
-<p align="center">
-<img src="https://github-readme-streak-stats-9m8ugfa77-denvercoder1.vercel.app/?user=light-hat&theme=transparent&hide_border=true&date=040325">
-
-<img src="https://github-readme-stats.vercel.app/api?username=light-hat&hide_border=true&theme=transparent&date=040325">
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=light-hat&layout=compact&hide_border=true&theme=transparent&date=040325">
-
-<img src="https://github-profile-trophy.vercel.app/?username=light-hat&theme=discord&title=MultiLanguage,Commits,Followers,Stars,Issues,PullRequest,Repositories,Reviews&date=040325">
-
-</p>
-
 <h2 align="center"> 🛠️ My tech stack </h2>
 
 <p align="center">
@@ -68,6 +56,18 @@ Recently graduated from <b>Penza State University</b> with a degree in <b>Inform
 <img src="https://img.shields.io/badge/vagrant-%231563FF.svg?style=for-the-badge&logo=vagrant&logoColor=white">
 <img src="https://img.shields.io/badge/grafana-%23F46800.svg?style=for-the-badge&logo=grafana&logoColor=white">
 <img src="https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=Prometheus&logoColor=white">
+
+</p>
+
+<h2 align="center"> 📊 My profile stats</h2>
+
+<p align="center">
+<img src="https://github-readme-streak-stats-9m8ugfa77-denvercoder1.vercel.app/?user=light-hat&theme=transparent&hide_border=true&date=040325">
+
+<img src="https://github-readme-stats.vercel.app/api?username=light-hat&hide_border=true&theme=transparent&date=040325">
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=light-hat&layout=compact&hide_border=true&theme=transparent&date=040325">
+
+<img src="https://github-profile-trophy.vercel.app/?username=light-hat&theme=discord&title=MultiLanguage,Commits,Followers,Stars,Issues,PullRequest,Repositories,Reviews&date=040325">
 
 </p>
 
