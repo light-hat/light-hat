@@ -25,7 +25,7 @@ Recently graduated from <b>Penza State University</b> with a degree in <b>Inform
 <li> ⚡ Fun fact: I write scripts to simplify my life, including one that tracks how much coffee I drink in a day.</li>
 </ul>
 
-<h2> 📊 My profile stats</h2>
+<h2 align="center"> 📊 My profile stats</h2>
 
 <p align="center">
 <img src="https://github-readme-streak-stats-9m8ugfa77-denvercoder1.vercel.app/?user=light-hat&theme=transparent&hide_border=true&date=040325">
