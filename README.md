@@ -25,6 +25,8 @@ Recently graduated from <b>Penza State University</b> with a degree in <b>Inform
 <li> ⚡ Fun fact: I write scripts to simplify my life, including one that tracks how much coffee I drink in a day.</li>
 </ul>
 
+<h2> 📊 My profile stats</h2>
+
 <p align="center">
 <img src="https://github-readme-streak-stats-9m8ugfa77-denvercoder1.vercel.app/?user=light-hat&theme=transparent&hide_border=true&date=040325">
 
@@ -37,19 +39,12 @@ Recently graduated from <b>Penza State University</b> with a degree in <b>Inform
 
 <h2 align="center"> 🛠️ My tech stack </h2>
 
-<h3 align="center">Development Tools</h2>
-
 <p align="center">
 <img src="https://img.shields.io/badge/Obsidian-%23483699.svg?style=for-the-badge&logo=obsidian&logoColor=white">
 <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white">
 <img src="https://img.shields.io/badge/VIM-%2311AB00.svg?style=for-the-badge&logo=vim&logoColor=white">
 <img src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white">
 <img src="https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white">
-</p>
-
-<h3 align="center">Web Development Stack</h2>
-
-<p align="center">
 <img src="https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white">
 <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E">
 <img src="https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D">
@@ -60,11 +55,6 @@ Recently graduated from <b>Penza State University</b> with a degree in <b>Inform
 <img src="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white">
 <img src="https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white">
 <img src="https://img.shields.io/badge/elasticsearch-%230377CC.svg?style=for-the-badge&logo=elasticsearch&logoColor=white">
-</p>
-
-<h3 align="center">DevOps Stack</h2>
-
-<p align="center">
 <img src="https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white">
 <img src="https://img.shields.io/badge/bash_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white">
 <img src="https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white">
