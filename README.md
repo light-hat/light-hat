@@ -71,6 +71,12 @@ Recently graduated from <b>Penza State University</b> with a degree in <b>Inform
 
 </p>
 
+<h2 align="center"> 🏆 My various diplomas, certificates</h2>
+
+<div align="center">
+  <a href="https://github.com/light-hat/light-hat/blob/main/assets/diploma_0.png" target="_blank"> <img height ="150px"  src="./assets/diploma_0.png" /></a>
+</div>
+
 <h2 align="center"> 💬 Contact me </h2>
 
 <p align="center">
