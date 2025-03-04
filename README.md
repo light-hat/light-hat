@@ -74,15 +74,17 @@ Recently graduated from <b>Penza State University</b> with a degree in <b>Inform
 <h2 align="center"> 🏆 My various diplomas, certificates</h2>
 
 <div align="center">
-  <a href="https://github.com/light-hat/light-hat/blob/main/assets/diploma_0.jpg" target="_blank"> <img height ="150px"  src="./assets/diploma_0.jpg" /></a>
-  <a href="https://github.com/light-hat/light-hat/blob/main/assets/diploma_1.jpg" target="_blank"> <img height ="150px"  src="./assets/diploma_1.jpg" /></a>
-  <a href="https://github.com/light-hat/light-hat/blob/main/assets/diploma_2.jpg" target="_blank"> <img height ="150px"  src="./assets/diploma_2.jpg" /></a>
-  <a href="https://github.com/light-hat/light-hat/blob/main/assets/diploma_3.jpg" target="_blank"> <img height ="150px"  src="./assets/diploma_3.jpg" /></a>
-  <a href="https://github.com/light-hat/light-hat/blob/main/assets/diploma_4.jpg" target="_blank"> <img height ="150px"  src="./assets/diploma_4.jpg" /></a>
-  <a href="https://github.com/light-hat/light-hat/blob/main/assets/diploma_5.jpg" target="_blank"> <img height ="150px"  src="./assets/diploma_5.jpg" /></a>
-  <a href="https://github.com/light-hat/light-hat/blob/main/assets/diploma_6.jpg" target="_blank"> <img height ="150px"  src="./assets/diploma_6.jpg" /></a>
-  <a href="https://github.com/light-hat/light-hat/blob/main/assets/diploma_7.jpg" target="_blank"> <img height ="150px"  src="./assets/diploma_7.jpg" /></a>
-  <a href="https://github.com/light-hat/light-hat/blob/main/assets/diploma_8.jpg" target="_blank"> <img height ="150px"  src="./assets/diploma_8.jpg" /></a>
+<a href="https://github.com/light-hat/light-hat/blob/main/assets/diploma_0.jpg" target="_blank"> <img height ="150px"  src="./assets/diploma_0.jpg" /></a>
+<a href="https://github.com/light-hat/light-hat/blob/main/assets/diploma_1.jpg" target="_blank"> <img height ="150px"  src="./assets/diploma_1.jpg" /></a>
+<a href="https://github.com/light-hat/light-hat/blob/main/assets/diploma_2.jpg" target="_blank"> <img height ="150px"  src="./assets/diploma_2.jpg" /></a>
+<a href="https://github.com/light-hat/light-hat/blob/main/assets/diploma_3.jpg" target="_blank"> <img height ="150px"  src="./assets/diploma_3.jpg" /></a>
+<a href="https://github.com/light-hat/light-hat/blob/main/assets/diploma_4.jpg" target="_blank"> <img height ="150px"  src="./assets/diploma_4.jpg" /></a>
+<a href="https://github.com/light-hat/light-hat/blob/main/assets/diploma_5.jpg" target="_blank"> <img height ="150px"  src="./assets/diploma_5.jpg" /></a>
+<a href="https://github.com/light-hat/light-hat/blob/main/assets/diploma_6.jpg" target="_blank"> <img height ="150px"  src="./assets/diploma_6.jpg" /></a>
+<a href="https://github.com/light-hat/light-hat/blob/main/assets/diploma_7.jpg" target="_blank"> <img height ="150px"  src="./assets/diploma_7.jpg" /></a>
+<a href="https://github.com/light-hat/light-hat/blob/main/assets/diploma_8.jpg" target="_blank"> <img height ="150px"  src="./assets/diploma_8.jpg" /></a>
+<a href="https://github.com/light-hat/light-hat/blob/main/assets/diploma_9.jpg" target="_blank"> <img height ="150px"  src="./assets/diploma_9.jpg" /></a>
+<a href="https://github.com/light-hat/light-hat/blob/main/assets/diploma_last.jpg" target="_blank"> <img height ="150px"  src="./assets/diploma_last.jpg" /></a>
 </div>
 
 <h2 align="center"> 💬 Contact me </h2>
