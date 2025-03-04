@@ -84,6 +84,7 @@ Recently graduated from <b>Penza State University</b> with a degree in <b>Inform
 <a href="https://github.com/light-hat/light-hat/blob/main/assets/diploma_7.jpg" target="_blank"> <img height ="150px"  src="./assets/diploma_7.jpg" /></a>
 <a href="https://github.com/light-hat/light-hat/blob/main/assets/diploma_8.jpg" target="_blank"> <img height ="150px"  src="./assets/diploma_8.jpg" /></a>
 <a href="https://github.com/light-hat/light-hat/blob/main/assets/diploma_9.jpg" target="_blank"> <img height ="150px"  src="./assets/diploma_9.jpg" /></a>
+<a href="https://github.com/light-hat/light-hat/blob/main/assets/diploma.jpg" target="_blank"> <img height ="150px"  src="./assets/diploma.jpg" /></a>
 <a href="https://github.com/light-hat/light-hat/blob/main/assets/diploma_last.jpg" target="_blank"> <img height ="150px"  src="./assets/diploma_last.jpg" /></a>
 </div>
 
