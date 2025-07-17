@@ -18,4 +18,3 @@
 <img src="https://github-profile-trophy.vercel.app/?username=light-hat&theme=discord&title=MultiLanguage,Commits,Followers,Stars,Issues,PullRequest,Repositories,Reviews&date=17072025">
 
 </p>  
-df
