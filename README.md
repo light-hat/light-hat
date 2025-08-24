@@ -15,6 +15,6 @@
 <img src="https://github-readme-stats.vercel.app/api?username=light-hat&hide_border=true&theme=transparent&date=24082025">
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=light-hat&layout=compact&hide_border=true&theme=transparent&date=24082025">
 
-<img src="https://github-trophies.vercel.app/?username=light-hat&theme=discord&title=MultiLanguage,Commits,Followers,Stars,Issues,PullRequest,Repositories,Reviews&date=24082025">
+<img src="https://github-trophies.vercel.app/?username=light-hat&theme=discord&title=Commits,Followers,Stars,Issues,PullRequest,Repositories,Reviews&date=24082025">
 
 </p>  
